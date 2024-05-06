@@ -9,6 +9,7 @@ The challenge is the following, clone this repo, create a branch where you will 
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
+- Thierry -> Frontend
 - Pietro Fusco -> Frontend?!
 - Elena - > Frontend
 - Liviu -> Frontend.
