@@ -9,3 +9,7 @@ The challenge is the following, clone this repo, create a branch where you will 
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
+- Innessa -> backend
+-  BITARINSA ARTHUR   FRONTEND
+- Myriam Kadi -> Backend
+
