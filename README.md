@@ -10,6 +10,7 @@ The challenge is the following, clone this repo, create a branch where you will 
 
 - Snoop Dioggy Diogue -> Frackend
 - Arianne -> backend
+- Yavanna > Frontend
 -Joao Silva -> Backend please.
 - Innessa -> backend
 -  BITARINSA ARTHUR   FRONTEND
