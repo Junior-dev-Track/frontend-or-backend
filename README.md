@@ -29,3 +29,4 @@ The challenge is the following, clone this repo, create a branch where you will 
 - Nicolas -> Front-end
 -Hazar -> Front-end
 - Snoop Slavy SLav -> Backend
+- Simon Declairfayt ->Backend
