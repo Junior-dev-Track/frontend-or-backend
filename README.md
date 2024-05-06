@@ -9,6 +9,7 @@ The challenge is the following, clone this repo, create a branch where you will 
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
+- Elena - > Frontend
 - Liviu -> Frontend.
 - Argjent -> Frontend
 - Sakshat -> Backend 
@@ -23,4 +24,5 @@ The challenge is the following, clone this repo, create a branch where you will 
 - Dora Nacinovic -> Frontend https://webdesignerandmore.wordpress.com/wp-content/uploads/2012/10/frontend.jpg?w=400
 - Louise -> Backend
 - Nicolas -> Front-end
+
 
