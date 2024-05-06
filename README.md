@@ -9,4 +9,4 @@ The challenge is the following, clone this repo, create a branch where you will 
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
-- Myriam Kadi -> Backend
+- Thierry -> Frontend
