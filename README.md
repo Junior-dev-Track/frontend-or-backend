@@ -9,3 +9,4 @@ The challenge is the following, clone this repo, create a branch where you will 
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
+- Dora Nacinovic -> Frontend https://webdesignerandmore.wordpress.com/wp-content/uploads/2012/10/frontend.jpg?w=400
