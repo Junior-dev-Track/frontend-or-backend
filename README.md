@@ -10,6 +10,7 @@ The challenge is the following, clone this repo, create a branch where you will 
 
 - Snoop Dioggy Diogue -> Frackend
 - Argjent -> Frontend
+- Sakshat -> Backend 
 - Lília : Frontend
 - Arianne -> backend
 - Yordie -> Backend
@@ -20,3 +21,8 @@ The challenge is the following, clone this repo, create a branch where you will 
 - Myriam Kadi -> Backend
 - Dora Nacinovic -> Frontend https://webdesignerandmore.wordpress.com/wp-content/uploads/2012/10/frontend.jpg?w=400
 - Louise -> Backend
+
+
+
+
+- Nicolas -> Front-end
