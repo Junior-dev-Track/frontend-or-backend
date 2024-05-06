@@ -6,11 +6,12 @@ The second one would be also a way for you to train on how to create a branch. (
 
 The challenge is the following, clone this repo, create a branch where you will add your name to the following list, don't forget to also mention frontend or backend
 
+
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
 - Myriam Kadi -> 
--Khyati Mehta-> Front End
+- Khyati Mehta-> Front End
 - Alex -> Backend
 - Jessica -> Frontend
 - Denis - > Frontend
@@ -31,8 +32,8 @@ The challenge is the following, clone this repo, create a branch where you will 
 - Dora Nacinovic -> Frontend https://webdesignerandmore.wordpress.com/wp-content/uploads/2012/10/frontend.jpg?w=400
 - Louise -> Backend
 - Nicolas -> Front-end
--Hazar -> Front-end
+- Hazar -> Front-end
 - Snoop Slavy SLav -> Backend
 - Simon Declairfayt ->Backend
 - Yuliia -> Frontend
-
+- Jaar-> frontend
