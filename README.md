@@ -9,8 +9,11 @@ The challenge is the following, clone this repo, create a branch where you will 
 ## The list:
 
 - Snoop Dioggy Diogue -> Frackend
+- Jordan -> Frontend
+- BITARINSA ARTHUR   FRONTEND
+- Myriam Kadi -> Backend
 - Myriam Kadi -> 
--Khyati Mehta-> Front End
+- Khyati Mehta-> Front End
 - Alex -> Backend
 - Jessica -> Frontend
 - Denis - > Frontend
@@ -32,7 +35,7 @@ The challenge is the following, clone this repo, create a branch where you will 
 - Dora Nacinovic -> Frontend https://webdesignerandmore.wordpress.com/wp-content/uploads/2012/10/frontend.jpg?w=400
 - Louise -> Backend
 - Nicolas -> Front-end
--Hazar -> Front-end
+- Hazar -> Front-end
 - Snoop Slavy SLav -> Backend
 - Simon Declairfayt ->Backend
 - Yuliia -> Frontend
